@@ -1,0 +1,10 @@
+{
+  "name": {
+    "message": "Copying code from StackOverflow",
+    "description": "extension name"
+  },
+  "description": {
+    "message": "Copy faster from StackOverflow",
+    "description": "extension description"
+  }
+}
